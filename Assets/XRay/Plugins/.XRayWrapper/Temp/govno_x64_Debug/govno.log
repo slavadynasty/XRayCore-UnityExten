@@ -1,0 +1,86 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(499,5): warning MSB8004: каталог Intermediate заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Intermediate.
+D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  govno.cpp
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  xr_ai_cross_table.cxx
+  xr_ai_graph.cxx
+  xr_ai_way.cxx
+  xr_blender.cxx
+  xr_bone.cxx
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  xr_build_err.cxx
+  xr_build_lights.cxx
+  xr_cform.cxx
+  xr_clsid.cxx
+  xr_cl_parser.cxx
+  xr_d3d_light.cxx
+  xr_details.cxx
+  xr_dm.cxx
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  xr_entity.cxx
+  xr_entity_factory.cxx
+  xr_entity_la.cxx
+  xr_entity_script.cxx
+  xr_entity_zenobian.cxx
+  xr_envelope.cxx
+  Создание кода...
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_entity_factory.cxx(348): warning C4172: возвращение адреса локальной или временной переменной : clsid
+  Компиляция...
+  xr_envelope_eval.cxx
+  xr_file_system.cxx
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_file_system.cxx(238,45): error C2440: return: невозможно преобразовать "bool" в "xray_re::xr_writer *"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_file_system.cxx(238,9): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+  xr_file_system_posix.cxx
+  xr_file_system_win32.cxx
+  xr_gamemtls_lib.cxx
+  xr_game_graph.cxx
+  xr_game_spawn.cxx
+  xr_geom_buf.cxx
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(122,3): error C3861: push_back: идентификатор не найден
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(122,3): message : "push_back": функция не объявлена в контексте определения шаблона, и ее можно найти только через поиск, зависимый от аргументов, в контексте создания экземпляров
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(101): message : во время компиляции функции-члена класс шаблон "void xray_re::_influence<uint32_t,float>::set(size_t,const uint16_t *,const float *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_geom_buf.cxx(369): message : выполняется компиляция ссылки на экземпляр шаблон функции "void xray_re::_influence<uint32_t,float>::set(size_t,const uint16_t *,const float *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_geom_buf.h(257): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "xray_re::_influence<uint32_t,float>"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(66,3): error C3861: push_back: идентификатор не найден
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(66,3): message : "push_back": функция не объявлена в контексте определения шаблона, и ее можно найти только через поиск, зависимый от аргументов, в контексте создания экземпляров
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(60): message : во время компиляции функции-члена класс шаблон "void xray_re::_influence<uint32_t,float>::set(uint16_t,uint16_t,float)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_geom_buf.cxx(359): message : выполняется компиляция ссылки на экземпляр шаблон функции "void xray_re::_influence<uint32_t,float>::set(uint16_t,uint16_t,float)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(77,4): error C3861: push_back: идентификатор не найден
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(77,4): message : "push_back": функция не объявлена в контексте определения шаблона, и ее можно найти только через поиск, зависимый от аргументов, в контексте создания экземпляров
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(78,4): error C3861: push_back: идентификатор не найден
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(78,4): message : "push_back": функция не объявлена в контексте определения шаблона, и ее можно найти только через поиск, зависимый от аргументов, в контексте создания экземпляров
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(80,4): error C3861: push_back: идентификатор не найден
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(80,4): message : "push_back": функция не объявлена в контексте определения шаблона, и ее можно найти только через поиск, зависимый от аргументов, в контексте создания экземпляров
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(81,4): error C3861: push_back: идентификатор не найден
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(81,4): message : "push_back": функция не объявлена в контексте определения шаблона, и ее можно найти только через поиск, зависимый от аргументов, в контексте создания экземпляров
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(55,2): error C3861: push_back: идентификатор не найден
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(55,2): message : "push_back": функция не объявлена в контексте определения шаблона, и ее можно найти только через поиск, зависимый от аргументов, в контексте создания экземпляров
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(54): message : во время компиляции функции-члена класс шаблон "void xray_re::_influence<uint32_t,float>::set(uint32_t)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_geom_buf.cxx(284): message : выполняется компиляция ссылки на экземпляр шаблон функции "void xray_re::_influence<uint32_t,float>::set(uint32_t)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(90,3): error C3861: push_back: идентификатор не найден
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(90,3): message : "push_back": функция не объявлена в контексте определения шаблона, и ее можно найти только через поиск, зависимый от аргументов, в контексте создания экземпляров
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(88): message : во время компиляции функции-члена класс шаблон "void xray_re::_influence<uint32_t,float>::set_wo_reorder(uint16_t,uint16_t,float)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_geom_buf.cxx(300): message : выполняется компиляция ссылки на экземпляр шаблон функции "void xray_re::_influence<uint32_t,float>::set_wo_reorder(uint16_t,uint16_t,float)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(94,3): error C3861: push_back: идентификатор не найден
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(94,3): message : "push_back": функция не объявлена в контексте определения шаблона, и ее можно найти только через поиск, зависимый от аргументов, в контексте создания экземпляров
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(95,3): error C3861: push_back: идентификатор не найден
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_influence.h(95,3): message : "push_back": функция не объявлена в контексте определения шаблона, и ее можно найти только через поиск, зависимый от аргументов, в контексте создания экземпляров
+  xr_guid.cxx
+  xr_image.cxx
+  xr_image_bmp.cxx
+  xr_image_dds.cxx
+  xr_image_tga.cxx
+  xr_influence.cxx
+  xr_ini_file.cxx
+  xr_level.cxx
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  xr_level_ai.cxx
+  xr_level_cform.cxx
+  xr_level_details.cxx
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  xr_level_dm.cxx
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Компиляция...
+  xr_level_env_mod.cxx
+  xr_level_fog_vol.cxx

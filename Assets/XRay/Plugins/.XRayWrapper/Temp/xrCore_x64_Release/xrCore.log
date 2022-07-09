@@ -1,0 +1,12 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(499,5): warning MSB8004: каталог Intermediate заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Intermediate.
+D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  entry.cpp
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\xrCore\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\xrCore\xr_aabb.h(66,39): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "max"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\xrCore\xr_api_mesh.h(43,1): warning C4190: для "xr_mesh_get_face" задана С-связывание, но возвращаемый тип UDT "xray_re::lw_face" несовместим с языком Си
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\xrCore\xr_mesh.h(128): message : см. объявление "xray_re::lw_face"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\xrCore\CryptoXor.h(102,5): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     Создается библиотека D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\Compiled\xrCore.lib и объект D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\Compiled\xrCore.exp
+  Создание кода
+  Создание кода завершено
+  xrCore.vcxproj -> D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\Compiled\xrCore.dll

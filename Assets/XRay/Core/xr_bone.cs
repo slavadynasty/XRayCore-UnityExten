@@ -26,29 +26,7 @@ namespace XRay.Core
                 name = xr_bone_name(pointer).GetString();
                 parent_name = xr_bone_parent_name(pointer).GetString();
                 vmap_name = xr_bone_vmap_name(pointer).GetString();
-                xr_bone_bind_xform(pointer, out float _11, out float _12, out float _13, out float _14, out float _21, out float _22, out float _23, out float _24,
-                    out float _31, out float _32, out float _33, out float _34, out float _41, out float _42, out float _43, out float _44);
-                {
-                    bind_xform._11 = _11;
-                    bind_xform._12 = _12;
-                    bind_xform._13 = _13;
-                    bind_xform._14 = _14;
-                    
-                    bind_xform._21 = _21;
-                    bind_xform._22 = _22;
-                    bind_xform._23 = _23;
-                    bind_xform._24 = _24;
-                    
-                    bind_xform._31 = _31;
-                    bind_xform._32 = _32;
-                    bind_xform._33 = _33;
-                    bind_xform._34 = _34;
-                    
-                    bind_xform._41 = _41;
-                    bind_xform._42 = _42;
-                    bind_xform._43 = _43;
-                    bind_xform._44 = _44;
-                }
+                bind_xform = xr_bone_bind_xform(pointer);
                 bind_i_xform = xr_bone_bind_i_xform(pointer);
                 bind_offset = xr_bone_bind_offset(pointer);
                 bind_rotate = xr_bone_bind_rotate(pointer);
@@ -60,29 +38,7 @@ namespace XRay.Core
         {
             if (pointer != IntPtr.Zero)
             {
-                xr_bone_bind_xform(pointer, out float _11, out float _12, out float _13, out float _14, out float _21, out float _22, out float _23, out float _24,
-                    out float _31, out float _32, out float _33, out float _34, out float _41, out float _42, out float _43, out float _44);
-                {
-                    bind_xform._11 = _11;
-                    bind_xform._12 = _12;
-                    bind_xform._13 = _13;
-                    bind_xform._14 = _14;
-                    
-                    bind_xform._21 = _21;
-                    bind_xform._22 = _22;
-                    bind_xform._23 = _23;
-                    bind_xform._24 = _24;
-                    
-                    bind_xform._31 = _31;
-                    bind_xform._32 = _32;
-                    bind_xform._33 = _33;
-                    bind_xform._34 = _34;
-                    
-                    bind_xform._41 = _41;
-                    bind_xform._42 = _42;
-                    bind_xform._43 = _43;
-                    bind_xform._44 = _44;
-                }
+                bind_xform = xr_bone_bind_xform(pointer);
                 bind_i_xform = xr_bone_bind_i_xform(pointer);
             }
         }

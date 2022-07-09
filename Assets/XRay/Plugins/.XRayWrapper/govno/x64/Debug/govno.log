@@ -1,0 +1,168 @@
+﻿  govno.cpp
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  xr_ai_cross_table.cxx
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): error C3878: синтаксическая ошибка: непредвиденный маркер "," после "condition"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): message : отсутствует один из элементов  ')' ';'?
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): message : пропущено восстановление ошибки: ", typename идентификатор  . . . ("
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,72): message : разбор возобновляется здесь
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,72): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,73): error C2760: синтаксическая ошибка: непредвиденный элемент ",". Ожидается "statement"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,73): message : пропущено восстановление ошибки: ","
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): message : пропущено восстановление ошибки: ")"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+  xr_ai_graph.cxx
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): error C3878: синтаксическая ошибка: непредвиденный маркер "," после "condition"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): message : отсутствует один из элементов  ')' ';'?
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): message : пропущено восстановление ошибки: ", typename идентификатор  . . . ("
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,72): message : разбор возобновляется здесь
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,72): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,73): error C2760: синтаксическая ошибка: непредвиденный элемент ",". Ожидается "statement"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,73): message : пропущено восстановление ошибки: ","
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): message : пропущено восстановление ошибки: ")"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+  xr_ai_way.cxx
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): error C3878: синтаксическая ошибка: непредвиденный маркер "," после "condition"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): message : отсутствует один из элементов  ')' ';'?
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): message : пропущено восстановление ошибки: ", typename идентификатор  . . . ("
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,72): message : разбор возобновляется здесь
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,72): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,73): error C2760: синтаксическая ошибка: непредвиденный элемент ",". Ожидается "statement"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,73): message : пропущено восстановление ошибки: ","
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): message : пропущено восстановление ошибки: ")"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+  xr_blender.cxx
+  xr_bone.cxx
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): error C3878: синтаксическая ошибка: непредвиденный маркер "," после "condition"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): message : отсутствует один из элементов  ')' ';'?
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): message : пропущено восстановление ошибки: ", typename идентификатор  . . . ("
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,72): message : разбор возобновляется здесь
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,72): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,73): error C2760: синтаксическая ошибка: непредвиденный элемент ",". Ожидается "statement"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,73): message : пропущено восстановление ошибки: ","
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): message : пропущено восстановление ошибки: ")"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+  xr_build_err.cxx
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): error C3878: синтаксическая ошибка: непредвиденный маркер "," после "condition"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): message : отсутствует один из элементов  ')' ';'?
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): message : пропущено восстановление ошибки: ", typename идентификатор  . . . ("
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,72): message : разбор возобновляется здесь
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,72): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,73): error C2760: синтаксическая ошибка: непредвиденный элемент ",". Ожидается "statement"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,73): message : пропущено восстановление ошибки: ","
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): message : пропущено восстановление ошибки: ")"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+  xr_build_lights.cxx
+  xr_cform.cxx
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): error C3878: синтаксическая ошибка: непредвиденный маркер "," после "condition"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): message : отсутствует один из элементов  ')' ';'?
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): message : пропущено восстановление ошибки: ", typename идентификатор  . . . ("
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,72): message : разбор возобновляется здесь
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,72): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,73): error C2760: синтаксическая ошибка: непредвиденный элемент ",". Ожидается "statement"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,73): message : пропущено восстановление ошибки: ","
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): message : пропущено восстановление ошибки: ")"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+  xr_clsid.cxx
+  xr_cl_parser.cxx
+  xr_d3d_light.cxx
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): error C3878: синтаксическая ошибка: непредвиденный маркер "," после "condition"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): message : отсутствует один из элементов  ')' ';'?
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): message : пропущено восстановление ошибки: ", typename идентификатор  . . . ("
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,72): message : разбор возобновляется здесь
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,72): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,73): error C2760: синтаксическая ошибка: непредвиденный элемент ",". Ожидается "statement"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,73): message : пропущено восстановление ошибки: ","
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): message : пропущено восстановление ошибки: ")"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+  xr_details.cxx
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): error C3878: синтаксическая ошибка: непредвиденный маркер "," после "condition"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): message : отсутствует один из элементов  ')' ';'?
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,22): message : пропущено восстановление ошибки: ", typename идентификатор  . . . ("
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,72): message : разбор возобновляется здесь
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,72): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,73): error C2760: синтаксическая ошибка: непредвиденный элемент ",". Ожидается "statement"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(274,73): message : пропущено восстановление ошибки: ","
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(275,48): message : пропущено восстановление ошибки: ")"
+D:\MyProjUnity\XRayCore-UnityExten\Assets\XRay\Plugins\.XRayWrapper\govno\xr_writer.h(147,47): message : Сообщение диагностики возникло в созданной компилятором функции "void xray_re::xr_ini_writer::w_ini_seq(const T &,F,const char *)"
+  xr_dm.cxx

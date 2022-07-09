@@ -3,59 +3,32 @@
 
 #include <iostream>
 #include "xr_ogf.h"
+#include "xr_ogf_v4.h"
 using namespace xray_re;
-
-struct xinfl_pred {
-    bool operator()(const fbone_weight& l, const fbone_weight& r) {
-        return l.weight > r.weight;
-    }
-};
 
 int main()
 {
     xr_ogf* ogf = xr_ogf::load_ogf("C:\\Users\\Slava\\Desktop\\stalker_neutral_1.ogf");
     ogf->bones().at(0)->calculate_bind(fmatrix().identity());
-    int* bone_refs = 0;
-    bone_refs = new int[ogf->bones().size()];
-    int ds = 0;
     ogf = ogf->children().at(0);
-    size_t num_verts = ogf->vb().size();
-    for (size_t i = 0; i < num_verts; i++)
+    
+    xr_ogf_v4* ogf4 = new xr_ogf_v4;
+    ogf4->load_omf("D:\\Games\\S.T.A.L.K.E.R. COP\\gamedataUE\\meshes\\actors\\critical_hit_grup_1.omf");
+
+    xr_skl_motion_vec skls = ogf4->motions();
+    for (size_t i = 0; i < skls.size(); i++)
     {
-        if (ogf->vb().has_influences())
+        xr_skl_motion* skl = skls.at(i);
+
+        xr_bone_motion_vec bmots = skl->bone_motions();
+        for (size_t j = 0; j < bmots.size(); j++)
         {
-            finfluence xinfl = ogf->vb().w(i);
-            int num_xinfls = int(xinfl.size() & INT_MAX);
-
-            if (num_xinfls == 1) {
-
-            }
-            else {
-                xr_assert(num_xinfls > 0);
-                std::sort(xinfl.begin(), xinfl.end(), xinfl_pred());
-                int h;
-                int weight;
-
-                if (xinfl[3].bone != 0)
-                {
-                    std::cout << "Hello World!\n";
-                }
-
-                for (int j = 1; j != num_xinfls; ++j)
-                {
-                    h = bone_refs[xinfl[j].bone];
-                }
-                    
-
-                for (int j = 0; j != num_xinfls && j != 3; ++j) {
-                    weight = int(floorf(xinfl[j].weight * 100.f + 0.501f));
-                }
-
-                ds++;
-            }
+            xr_bone_motion* bmot = bmots.at(j);
+            bmot->
+            std::cout << "Hello World!\n";
         }
     }
-
+    
     std::cout << "Hello World!\n";
 }
 

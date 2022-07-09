@@ -13,6 +13,7 @@ namespace XRay.Core
         public xr_ibuf ib;
         public xr_bone[] bones;
         public xr_bone root_bone;
+        
         public bbox bbox { get; private set; }
         public bsphere bsphere { get; private set; }
         public ogf_version version { get; private set; }
@@ -97,7 +98,7 @@ namespace XRay.Core
                     }
                     bones[i].Setup(this);
                 }
-                    
+
                 InternalParseChild();
             }
         }

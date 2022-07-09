@@ -7,6 +7,7 @@
 #include "xr_api_ogf.h"
 #include "xr_api_mesh.h"
 #include "xr_api_bone.h"
+#include "xr_api_skl.h"
 #include "CryptoXor.h"
 
 XR_API const char* get_version() 

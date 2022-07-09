@@ -411,6 +411,9 @@
     <ClInclude Include="xr_api_ogf.h">
       <Filter>main</Filter>
     </ClInclude>
+    <ClInclude Include="xr_api_skl.h">
+      <Filter>main</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="entry.cpp">

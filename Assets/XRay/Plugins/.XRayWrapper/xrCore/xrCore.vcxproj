@@ -163,6 +163,7 @@
     <ClInclude Include="xr_api_mesh.h" />
     <ClInclude Include="xr_api_object.h" />
     <ClInclude Include="xr_api_ogf.h" />
+    <ClInclude Include="xr_api_skl.h" />
     <ClInclude Include="xr_blender.h" />
     <ClInclude Include="xr_bone.h" />
     <ClInclude Include="xr_build_err.h" />

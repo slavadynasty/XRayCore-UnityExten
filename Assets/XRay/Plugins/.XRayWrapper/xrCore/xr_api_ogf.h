@@ -26,7 +26,7 @@ XR_API bool free_xr_ogf(xr_ogf* ogf)
 {
 	if (ogf != NULL)
 	{
-		delete ogf;
+		free(ogf);
 		return true;
 	}
 	return false;

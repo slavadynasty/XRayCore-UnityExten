@@ -55,9 +55,7 @@ namespace XRay.Core
         [SuppressUnmanagedCodeSecurity] [DllImport("xrCore")] public static extern IntPtr xr_ogf_get_bone(IntPtr ptr, int index);
         [SuppressUnmanagedCodeSecurity] [DllImport("xrCore")] public static extern ushort xr_bone_id(IntPtr ptr);
         [SuppressUnmanagedCodeSecurity] [DllImport("xrCore")] public static extern bool xr_bone_is_root(IntPtr ptr);
-        [SuppressUnmanagedCodeSecurity] [DllImport("xrCore")] public static extern 
-            void xr_bone_bind_xform(IntPtr ptr, out float _11, out float _12, out float _13, out float _14, out float _21, out float _22, out float _23, out float _24,
-                out float _31, out float _32, out float _33, out float _34, out float _41, out float _42, out float _43, out float _44);
+        [SuppressUnmanagedCodeSecurity] [DllImport("xrCore")] public static extern fmatrix xr_bone_bind_xform(IntPtr ptr);
         [SuppressUnmanagedCodeSecurity] [DllImport("xrCore")] public static extern void xr_bone_calculate_bind(IntPtr ptr, fmatrix parent_xform);
         [SuppressUnmanagedCodeSecurity] [DllImport("xrCore")] public static extern fmatrix xr_bone_bind_i_xform(IntPtr ptr);
         [SuppressUnmanagedCodeSecurity] [DllImport("xrCore")] public static extern IntPtr xr_bone_name(IntPtr ptr);
@@ -90,6 +88,15 @@ namespace XRay.Core
             ref UInt32 b0, ref UInt32 b1, ref UInt32 b2, ref UInt32 b3, ref float w0, ref float w1, ref float w2, ref float w3);
         [SuppressUnmanagedCodeSecurity] [DllImport("xrCore")] public static extern int xr_ogf_ib_size(IntPtr ptr);
         [SuppressUnmanagedCodeSecurity] [DllImport("xrCore")] public static extern ushort xr_ogf_ib_get_indice(IntPtr ptr, int index);
-
+        
+        /* XR_SKL */
+        [SuppressUnmanagedCodeSecurity] [DllImport("xrCore")] public static extern bool get_xr_ogf_omf(string path, out IntPtr ptr);
+        [SuppressUnmanagedCodeSecurity] [DllImport("xrCore")] public static extern int xr_ogf_motions_size(IntPtr ptr);
+        [SuppressUnmanagedCodeSecurity] [DllImport("xrCore")] public static extern IntPtr xr_ogf_motions_get_skl(IntPtr ptr, int index);
+        [SuppressUnmanagedCodeSecurity] [DllImport("xrCore")] public static extern float xr_ogf_skl_get_fps(IntPtr ptr);
+        [SuppressUnmanagedCodeSecurity] [DllImport("xrCore")] public static extern int xr_skl_bone_motions_size(IntPtr ptr);
+        [SuppressUnmanagedCodeSecurity] [DllImport("xrCore")] public static extern IntPtr xr_skl_get_bone_motion(IntPtr ptr, int index);
+        [SuppressUnmanagedCodeSecurity] [DllImport("xrCore")] public static extern IntPtr xr_bone_motion_name(IntPtr ptr);
+        [SuppressUnmanagedCodeSecurity] [DllImport("xrCore")] public static extern void xr_bone_motion_evaluate(IntPtr ptr, float fps, int xframe, ref fvector3 t, ref fvector3 r);
     }
 }
