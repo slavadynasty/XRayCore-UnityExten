@@ -1,0 +1,13 @@
+D:\Projects\XRay_Wrapper\obj\Release\XRay_Wrapper.csproj.AssemblyReference.cache
+D:\Projects\XRay_Wrapper\obj\Release\XRay.MainForm.resources
+D:\Projects\XRay_Wrapper\obj\Release\XRay.Properties.Resources.resources
+D:\Projects\XRay_Wrapper\obj\Release\XRay_Wrapper.csproj.GenerateResource.cache
+D:\Projects\XRay_Wrapper\obj\Release\XRay_Wrapper.csproj.CoreCompileInputs.cache
+D:\Projects\XRay_Wrapper\bin\Release\XRay_Wrapper.exe.config
+D:\Projects\XRay_Wrapper\bin\Release\XRay_Wrapper.exe
+D:\Projects\XRay_Wrapper\bin\Release\XRay_Wrapper.pdb
+D:\Projects\XRay_Wrapper\obj\Release\XRay_Wrapper.exe
+D:\Projects\XRay_Wrapper\obj\Release\XRay_Wrapper.pdb
+D:\Projects\Compiled\XRay_Wrapper.exe.config
+D:\Projects\Compiled\XRay_Wrapper.exe
+D:\Projects\Compiled\XRay_Wrapper.pdb

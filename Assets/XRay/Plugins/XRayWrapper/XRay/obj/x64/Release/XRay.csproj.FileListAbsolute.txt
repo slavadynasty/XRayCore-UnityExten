@@ -1,0 +1,8 @@
+D:\VSProjects\XRayWrapper\Compiled\XRay.exe.config
+D:\VSProjects\XRayWrapper\Compiled\XRay.exe
+D:\VSProjects\XRayWrapper\XRay\obj\x64\Release\XRay.csproj.AssemblyReference.cache
+D:\VSProjects\XRayWrapper\XRay\obj\x64\Release\XRay.csproj.SuggestedBindingRedirects.cache
+D:\VSProjects\XRayWrapper\XRay\obj\x64\Release\XRay.MainForm.resources
+D:\VSProjects\XRayWrapper\XRay\obj\x64\Release\XRay.csproj.GenerateResource.cache
+D:\VSProjects\XRayWrapper\XRay\obj\x64\Release\XRay.csproj.CoreCompileInputs.cache
+D:\VSProjects\XRayWrapper\XRay\obj\x64\Release\XRay.exe

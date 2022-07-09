@@ -1,0 +1,159 @@
+﻿  entry.cpp
+D:\VSProjects\XRayWrapper\xrCore\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\VSProjects\XRayWrapper\xrCore\xr_aabb.h(66,39): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "max"
+D:\VSProjects\XRayWrapper\xrCore\xr_api_ogf.h(123,1): warning C4190: для "xr_ogf_vb_w_get_fbone_weight" задана С-связывание, но возвращаемый тип UDT "xray_re::_bone_weight<uint32_t,float>" несовместим с языком Си
+D:\VSProjects\XRayWrapper\xrCore\xr_influence.h(22): message : см. объявление "xray_re::_bone_weight<uint32_t,float>"
+D:\VSProjects\XRayWrapper\xrCore\xr_api_ogf.h(237,1): warning C4190: для "xr_ogf_v4_vb_w_get_fbone_weight" задана С-связывание, но возвращаемый тип UDT "xray_re::_bone_weight<uint32_t,float>" несовместим с языком Си
+D:\VSProjects\XRayWrapper\xrCore\xr_influence.h(22): message : см. объявление "xray_re::_bone_weight<uint32_t,float>"
+D:\VSProjects\XRayWrapper\xrCore\xr_api_mesh.h(43,1): warning C4190: для "xr_mesh_get_face" задана С-связывание, но возвращаемый тип UDT "xray_re::lw_face" несовместим с языком Си
+D:\VSProjects\XRayWrapper\xrCore\xr_mesh.h(128): message : см. объявление "xray_re::lw_face"
+D:\VSProjects\XRayWrapper\xrCore\CryptoXor.h(102,5): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  xr_ai_cross_table.cxx
+  xr_ai_graph.cxx
+  xr_ai_way.cxx
+  xr_blender.cxx
+  xr_bone.cxx
+D:\VSProjects\XRayWrapper\xrCore\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  xr_build_err.cxx
+  xr_build_lights.cxx
+  xr_cform.cxx
+  xr_clsid.cxx
+  xr_cl_parser.cxx
+  xr_d3d_light.cxx
+  xr_details.cxx
+  xr_dm.cxx
+D:\VSProjects\XRayWrapper\xrCore\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  xr_entity.cxx
+  xr_entity_factory.cxx
+  xr_entity_la.cxx
+  xr_entity_script.cxx
+  xr_entity_zenobian.cxx
+  xr_envelope.cxx
+  Создание кода...
+D:\VSProjects\XRayWrapper\xrCore\xr_entity_factory.cxx(348): warning C4172: возвращение адреса локальной или временной переменной : clsid
+  Компиляция...
+  xr_envelope_eval.cxx
+  xr_file_system.cxx
+  xr_file_system_posix.cxx
+  xr_file_system_win32.cxx
+  xr_gamemtls_lib.cxx
+  xr_game_graph.cxx
+  xr_game_spawn.cxx
+  xr_geom_buf.cxx
+  xr_guid.cxx
+  xr_image.cxx
+  xr_image_bmp.cxx
+  xr_image_dds.cxx
+D:\VSProjects\XRayWrapper\xrCore\xr_image_dds.cxx(5,10): fatal error C1083: Не удается открыть файл включение: nvimage/Image.h: No such file or directory,
+  xr_image_tga.cxx
+  xr_influence.cxx
+  xr_ini_file.cxx
+  xr_level.cxx
+D:\VSProjects\XRayWrapper\xrCore\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  xr_level_ai.cxx
+  xr_level_cform.cxx
+  xr_level_details.cxx
+D:\VSProjects\XRayWrapper\xrCore\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  xr_level_dm.cxx
+D:\VSProjects\XRayWrapper\xrCore\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Компиляция...
+  xr_level_env_mod.cxx
+  xr_level_fog_vol.cxx
+  xr_level_game.cxx
+  xr_level_gct.cxx
+  xr_level_gct_v9.cxx
+  xr_level_geom.cxx
+  xr_level_glows.cxx
+  xr_level_graph.cxx
+  xr_level_hom.cxx
+  xr_level_lights.cxx
+  xr_level_ltx.cxx
+  xr_level_portals.cxx
+  xr_level_ps_static.cxx
+  xr_level_sectors.cxx
+  xr_level_shaders.cxx
+  xr_level_snd_env.cxx
+  xr_level_snd_static.cxx
+D:\VSProjects\XRayWrapper\xrCore\xr_level_snd_static.cxx(44,28): warning C4477: "sscanf_s": в строке форматирования "%s" требуется аргумент типа "unsigned int", но вариативный аргумент "2" имеет тип "size_t"
+D:\VSProjects\XRayWrapper\xrCore\xr_level_snd_static.cxx(44,28): message : этот аргумент используется в качестве размера буфера
+  xr_level_som.cxx
+  xr_level_spawn.cxx
+  xr_level_visuals.cxx
+D:\VSProjects\XRayWrapper\xrCore\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Компиляция...
+  xr_level_wallmarks.cxx
+  xr_log.cxx
+  xr_lzhuf.cxx
+  xr_matrix.cxx
+  xr_mesh.cxx
+D:\VSProjects\XRayWrapper\xrCore\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  xr_mesh_builder.cxx
+D:\VSProjects\XRayWrapper\xrCore\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\VSProjects\XRayWrapper\xrCore\xr_mesh_builder.cxx(617,2): warning C4267: инициализация: преобразование из "size_t" в "uint_fast32_t"; возможна потеря данных
+  xr_mesh_vbuf.cxx
+  xr_motion.cxx
+  xr_name_gen.cxx
+  xr_object.cxx
+D:\VSProjects\XRayWrapper\xrCore\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  xr_obj_motion.cxx
+  xr_ogf.cxx
+D:\VSProjects\XRayWrapper\xrCore\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  xr_ogf_v3.cxx
+D:\VSProjects\XRayWrapper\xrCore\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\VSProjects\XRayWrapper\xrCore\xr_ogf_v3.cxx(95,3): warning C4267: инициализация: преобразование из "size_t" в "uint_fast32_t"; возможна потеря данных
+  xr_ogf_v4.cxx
+D:\VSProjects\XRayWrapper\xrCore\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  xr_packet.cxx
+D:\VSProjects\XRayWrapper\xrCore\xr_packet.h(190,56): warning C4477: "sprintf_s": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "const T"
+          with
+          [
+              T=uint64_t
+          ]
+D:\VSProjects\XRayWrapper\xrCore\xr_packet.h(190,56): message : рекомендуется использовать "%lld" в строке форматирования
+D:\VSProjects\XRayWrapper\xrCore\xr_packet.h(190,56): message : рекомендуется использовать "%Id" в строке форматирования
+D:\VSProjects\XRayWrapper\xrCore\xr_packet.h(190,56): message : рекомендуется использовать "%I64d" в строке форматирования
+D:\VSProjects\XRayWrapper\xrCore\xr_packet.cxx(21): message : выполняется компиляция ссылки на экземпляр шаблон функции "void xray_re::xr_ini_packet::write_number<uint64_t>(const T &)"
+          with
+          [
+              T=uint64_t
+          ]
+  xr_quaternion.cxx
+  xr_reader.cxx
+  xr_reader_scrambler.cxx
+  xr_scene.cxx
+  xr_scene_ai_map.cxx
+  Создание кода...
+  Компиляция...
+  xr_scene_details.cxx
+  xr_scene_glows.cxx
+  xr_scene_groups.cxx
+  xr_scene_lights.cxx
+  xr_scene_objects.cxx
+  xr_scene_part.cxx
+  xr_scene_particles.cxx
+  xr_scene_portals.cxx
+  xr_scene_revision.cxx
+  xr_scene_sectors.cxx
+  xr_scene_shapes.cxx
+  xr_scene_sound_envs.cxx
+  xr_scene_sound_srcs.cxx
+  xr_scene_spawns.cxx
+  xr_scene_visuals.cxx
+  xr_scene_wallmarks.cxx
+  xr_scene_ways.cxx
+  xr_scrambler.cxx
+  xr_shaders_lib.cxx
+  xr_shaders_xrlc_lib.cxx
+  Создание кода...
+  Компиляция...
+  xr_skeleton.cxx
+  xr_skl_motion.cxx
+D:\VSProjects\XRayWrapper\xrCore\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  xr_sound_thumbnail.cxx
+  xr_surface.cxx
+  xr_texture_thumbnail.cxx
+  xr_vector3.cxx
+  xr_writer.cxx
+  Создание кода...

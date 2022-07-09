@@ -1,0 +1,8 @@
+﻿  govno.cpp
+D:\VSProjects\XRayWrapper\govno\xr_skl_motion.h(134,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  0 of 9 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  govno.vcxproj -> D:\VSProjects\XRayWrapper\x64\Release\govno.exe

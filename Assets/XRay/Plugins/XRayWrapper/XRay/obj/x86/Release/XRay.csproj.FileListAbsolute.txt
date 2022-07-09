@@ -1,0 +1,9 @@
+D:\Projects\XRay\bin\x86\Release\XRay.exe.config
+D:\Projects\XRay\bin\x86\Release\XRay.exe
+D:\Projects\XRay\obj\x86\Release\XRay.csproj.AssemblyReference.cache
+D:\Projects\XRay\obj\x86\Release\XRay.MainForm.resources
+D:\Projects\XRay\obj\x86\Release\XRay.csproj.GenerateResource.cache
+D:\Projects\XRay\obj\x86\Release\XRay.csproj.CoreCompileInputs.cache
+D:\Projects\XRay\obj\x86\Release\XRay.exe
+D:\Projects\Compiled\XRay.exe.config
+D:\Projects\Compiled\XRay.exe
