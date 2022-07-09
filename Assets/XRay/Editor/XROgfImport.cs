@@ -45,7 +45,7 @@ public class XROgfImport : ScriptedImporter
                 }
             }
         }
-
+        
         if (ogf.hierarchical)
         {
             GameObject[] meshesObjects = new GameObject[ogf.children.Length];
@@ -62,12 +62,15 @@ public class XROgfImport : ScriptedImporter
                 smrs[i] = meshesObjects[i].AddComponent<SkinnedMeshRenderer>();
 
                 meshes[i] = ImportMesh(child);
-                
+                meshes[i].name = textureName[^1]  + "_mesh";
+
                 smrs[i].sharedMesh = meshes[i];
                 smrs[i].sharedMaterial = new Material(Shader.Find("Standard"))
                 {
-                    name = textureName[^1]
+                    name = textureName[^1] + "_mat"
                 };
+                
+                ctx.AddObjectToAsset(smrs[i].sharedMaterial.name, smrs[i].sharedMaterial);
 
                 smrs[i].rootBone = modelRoot;
                 smrs[i].bones = modelBones.ToArray();
@@ -147,8 +150,13 @@ public class XROgfImport : ScriptedImporter
                 
                 smrs[i].sharedMesh.boneWeights = ww.ToArray();
                 smrs[i].sharedMesh.bindposes = bindposes;
+                
+                ctx.AddObjectToAsset(smrs[i].sharedMesh.name, smrs[i].sharedMesh);
             }
         }
+        
+        ctx.AddObjectToAsset(modelTransform.name, modelTransform.gameObject);
+        ctx.SetMainObject(modelTransform.gameObject);
     }
 
     private void ImportBones(xr_ogf ogf, ref Transform root, List<Transform> modelBones, string rootName)
