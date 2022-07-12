@@ -9,6 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/[Uu]UserSettings/
 /[Pp]ackages/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
@@ -59,3 +60,10 @@ sysinfo.txt
 crashlytics-build.properties
 
 *.aab
+
+# unused
+*.obj
+*.iobj
+*.cache
+*.meta
+*.meta
